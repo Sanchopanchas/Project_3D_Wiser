@@ -1,5 +1,5 @@
 
-
+# bhligugliuuiztuz
 class Printer:
     def __init__(self, printer_id, manufacture, model, technology, footprint, voltage):
         self.printer_id = printer_id
