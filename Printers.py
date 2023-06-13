@@ -8,4 +8,4 @@ class Printer:
         self.technology = technology
         self.footprint = footprint
         self.voltage = voltage
-
+        self.reservations = []  # seznam rezervaci pro tuto tiskarnu
