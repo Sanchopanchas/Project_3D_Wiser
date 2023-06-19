@@ -22,3 +22,6 @@ Fuknce systému:
 
 Další kroky: Spuštění rezervačního systému na web. Nastavení kalendáře zobrazující všechny rezervace pro přehlednost, aby zaměstnanci mohli snadno zjistit, které tiskárny jsou rezervovány a na jak dlouho. 
 
+![Logo](https://www.ibvv.cz/cdn/image/256/RibExi5Rww4dY04Qj4HVf9rDBDMsjjOp.png)
+
+![App Screenshots](https://github.com/Sanchopanchas/Project_3D_Wiser/blob/main/NaviMenu.PNG "Rezervační systém")
