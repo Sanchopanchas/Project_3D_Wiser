@@ -5,7 +5,7 @@
 ### Cíl
 Vytvořit rezervační systém pro zaměstnance 3DWiser, který umožní správu a rezervaci 3D tiskáren pro zakázky i prezentace na akcích.
 Technologie: Programovací jazyk Python pro tvorbu webové aplikace.
-### Funkce: 
+### Funkce
 <dl>
     <dt>Přehled dostupných tiskáren</dt>
     <dd>Uživatel vidí přehled všech dostupných 3D tiskáren ještě před zobrazení menu (Obrázek 1.)</dd>
@@ -27,7 +27,8 @@ Technologie: Programovací jazyk Python pro tvorbu webové aplikace.
 
 ![App Screenshots](https://github.com/Sanchopanchas/Project_3D_Wiser/blob/main/NaviMenu.PNG "Rezervační systém")
 
-Další kroky: Vyhledávání tiskáren z databáze dle vlastností. Vytvoření webové aplikace s použitím frameworku.
+### Další kroky:
+Vyhledávání tiskáren z databáze dle vlastností. Vytvoření webové aplikace s použitím frameworku.
 Nastavení kalendáře zobrazující všechny rezervace. 
 
 
