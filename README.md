@@ -27,7 +27,8 @@ Technologie: Programovací jazyk Python pro tvorbu webové aplikace.
 
 ![App Screenshots](https://github.com/Sanchopanchas/Project_3D_Wiser/blob/main/NaviMenu.PNG "Rezervační systém")
 
-Další kroky: Spuštění rezervačního systému na web. Nastavení kalendáře zobrazující všechny rezervace pro přehlednost, aby zaměstnanci mohli snadno zjistit, které tiskárny jsou rezervovány a na jak dlouho. 
+Další kroky: Vyhledávání tiskáren z databáze dle vlastností. Vytvoření webové aplikace s použitím frameworku.
+Nastavení kalendáře zobrazující všechny rezervace. 
 
 
 
