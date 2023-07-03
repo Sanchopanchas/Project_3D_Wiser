@@ -1,7 +1,7 @@
 ![Logo](https://www.ibvv.cz/cdn/image/256/RibExi5Rww4dY04Qj4HVf9rDBDMsjjOp.png)
-# Rezervační systém 3D tiskáren pro firmu 3DWiser
+# Rezervační systém 3D tiskáren
 
-3DWiser disponuje 29 modely 3D tiskáren. Tyto tiskárny využívá k tisku zakázek ale také k reprezentaci firmy na veletrzích. Firma řeší problém, kdy jedno oddělení neví, co druhé oddělení s tiskárnami plánuje. Často se tak stane, že technické oddělení, realizující zakázkový tisk neví, kdy má obchodní nebo marketingové oddělení v plánu tiskárny využít k prezentaci na akcích. Vhodným řešením může být webový rezervační systém dostupný pro všechny zaměstnance.
+Firma disponuje 29 modely 3D tiskáren. Tyto tiskárny využívá k tisku zakázek ale také k reprezentaci firmy na veletrzích. Firma řeší problém, kdy jedno oddělení neví, co druhé oddělení s tiskárnami plánuje. Často se tak stane, že technické oddělení, realizující zakázkový tisk neví, kdy má obchodní nebo marketingové oddělení v plánu tiskárny využít k prezentaci na akcích. Vhodným řešením může být webový rezervační systém dostupný pro všechny zaměstnance.
 ### Cíl
 Vytvořit rezervační systém pro zaměstnance 3DWiser, který umožní správu a rezervaci 3D tiskáren pro zakázky i prezentace na akcích.
 Technologie: Programovací jazyk Python pro tvorbu webové aplikace.
